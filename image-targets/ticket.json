@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/ticket_target.jpeg",
+  "name": "ticket",
+  "type": "PLANAR",
+  "properties": {
+    "top": 613,
+    "left": 0,
+    "width": 853,
+    "height": 1137,
+    "isRotated": true,
+    "originalWidth": 853,
+    "originalHeight": 1919
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1752135976107,
+  "updated": 1752136007681
+}

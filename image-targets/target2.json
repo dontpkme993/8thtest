@@ -1,0 +1,16 @@
+{
+  "imagePath": "image-targets/target2_target.jpeg",
+  "name": "target2",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 608,
+    "isRotated": false,
+    "originalWidth": 1080,
+    "originalHeight": 608
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true
+}

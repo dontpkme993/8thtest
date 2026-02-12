@@ -1,15 +1,15 @@
 {
-  "imagePath": "image-targets/ticket_target.jpeg",
-  "name": "ticket",
+  "imagePath": "image-targets/test_image_target_target.jpeg",
+  "name": "test_image_target",
   "type": "PLANAR",
   "properties": {
     "top": 0,
     "left": 0,
     "width": 2400,
-    "height": 2400,
+    "height": ,
     "isRotated": false,
     "originalWidth": 2400,
-    "originalHeight": 2400
+    "originalHeight": 
   },
   "userMetadataIsJson": true,
   "loadAutomatically": true
